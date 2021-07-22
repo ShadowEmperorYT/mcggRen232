@@ -1,4 +1,7 @@
-Translated to English & Updated by Ren232.
+<h1> Credits </h1>
+I don't own this this belongs to Ren232
+Orginal Repo - https://github.com/Ren232/mcgg (Only contains versions up to 1.14.4)
+Updated by me (Contains version 1.16.5)
 
 <h1> Features </h1>
 - You can access the file manager of the server.<br>
@@ -29,6 +32,8 @@ Translated to English & Updated by Ren232.
 4. Goto https://wakemydyno.com Enter the website and click on submit.
 
 5. Done!
+
+6. Join my discord server if you want to - http://discord.link/Beastsmp
 
 <h1> Notice </h1>
 The total ram of a free dyno is limited to 1024 mb.<br>
