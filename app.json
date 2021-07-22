@@ -6,7 +6,7 @@
     "minecraft"
   ],
   "logo": "https://raw.githubusercontent.com/Ren232/mcgg/master/logo.jpg",
-  "repository": "https://github.com/ShadowEmperorYT/mcggtest",
+  "repository": "https://github.com/ShadowEmperorYT/mcggRen232",
   "stack": "heroku-18",
   "env": {
     "MINECRAFT_EULA": {
@@ -36,7 +36,7 @@
       "url": "heroku/jvm"
     },
     {
-      "url": "https://github.com/ShadowEmperorYT/mcggtest"
+      "url": "https://github.com/ShadowEmperorYT/mcggRen232"
     },
     {
       "url": "https://github.com/heroku/heroku-buildpack-php"
